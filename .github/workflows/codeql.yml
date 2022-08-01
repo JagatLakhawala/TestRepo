@@ -39,5 +39,3 @@ jobs:
           echo ${{ secrets.TESTTOKEN }}
       env:
           SUPER_SECRET: ${{ secrets.TESTTOKEN }}
-
-    
