@@ -11,7 +11,7 @@
 # supported CodeQL languages.
 #
 name: "CodeQL"
-
+ 
 on:
   pull_request:
     types: [opened, reopened, edited]
